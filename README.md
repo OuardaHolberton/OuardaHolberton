@@ -6,7 +6,8 @@
 
 <!-- Typing animation -->
 
-<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=First-year+student+at+Holberton+School;Learning+something+new+every+single+day;C+%7C+Shell+%7C+HTML+%7C+CSS;Building+my+path+one+commit+at+a+time+🚀](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=First-year+student+at+Holberton+School;Learning+something+new+every+single+day;C+%7C+Shell+%7C+HTML+%7C+CSS;Building+my+path+one+commit+at+a+time+🚀)" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=First-year+student+at+Holberton+School;Learning+something+new+every+single+day;C+%7C+Shell+%7C+HTML+%7C+CSS;Building+my+path+one+commit+at+a+time+🚀" alt="Typing SVG" />
+</div>
 
 </div>
 
