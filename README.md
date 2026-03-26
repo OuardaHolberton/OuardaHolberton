@@ -58,7 +58,6 @@ me_t ouarda = {
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OuardaHolberton&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OuardaHolberton&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-
 </div>
 
 <div align="center">
